@@ -1,4 +1,4 @@
-## Friend Recommendation, Word Count and MapReduce##
+## Friend Recommendation, Word Count and MapReduce ##
 ## Info ##
 Author Name: Puzhi Yao
 
