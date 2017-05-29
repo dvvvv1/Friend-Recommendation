@@ -1,6 +1,7 @@
 ## Friend Recommendation, Word Count and MapReduce##
 ## Info ##
 Author Name: Puzhi Yao
+
 Author Email: dvvvv1@hotmail.com
 
 ## Instructions ##
@@ -9,13 +10,16 @@ Make sure all Hadoop components and libraries being installed in your system bef
 
 ## Error Handler 01 ##
 If your terminal shows the error message like 'output exists'
+
 please remove the output folder and try it again.
 
 ## Error Handler 02 ##
 If your terminal shows the error message like 'XXXXXX library missing'
+
 please add external jar library into the classpath:
 
 slf4j-simple-1.7.21.jar
+
 htrace-core4.jar
 
 ## Exercise 1 ##
