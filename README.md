@@ -1,6 +1,6 @@
 ## Friend Recommendation, Word Count and MapReduce ##
 ## Info ##
-Author Name: pz.yao
+Author: pz.yao
 
 ## Instructions ##
 ## Prerequisite ##
